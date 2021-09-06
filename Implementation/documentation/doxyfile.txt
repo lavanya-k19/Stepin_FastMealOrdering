@@ -32,7 +32,7 @@ DOXYFILE_ENCODING      = UTF-8
 # title of most generated pages and in a few other places.
 # The default value is: My Project.
 
-PROJECT_NAME           = QuickMeal
+PROJECT_NAME           = FastMeal
 
 # The PROJECT_NUMBER tag can be used to enter a project or revision number. This
 # could be handy for archiving the generated documentation or if some version
@@ -42,7 +42,8 @@ PROJECT_NUMBER         =
 
 # Using the PROJECT_BRIEF tag one can provide an optional one line description
 # for a project that appears at the top of each page and should give viewer a
-# quick idea about the purpose of the project. Keep the description short.
+# 
+idea about the purpose of the project. Keep the description short.
 
 PROJECT_BRIEF          = 
 
@@ -58,7 +59,7 @@ PROJECT_LOGO           =
 # entered, it will be relative to the location where doxygen was started. If
 # left blank the current directory will be used.
 
-OUTPUT_DIRECTORY       = "https://github.com/lavanya-k19/QUICK-MEAL-ORDERING.git"
+OUTPUT_DIRECTORY       = "https://github.com/jnanesh9490/Stepin_FastMealOrdering.git"
 
 # If the CREATE_SUBDIRS tag is set to YES then doxygen will create 4096 sub-
 # directories (in 2 levels) under the output directory of each output format and
